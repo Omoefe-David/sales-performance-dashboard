@@ -1,0 +1,31 @@
+order_id,sales_rep,region,product,quantity,unit_price,order_date,status
+1001,David Omoefe,Lagos,Software License,3,450,2024-01-05,Completed
+1002,James Ade,Abuja,Hardware Kit,1,1200,2024-01-08,Completed
+1003,Sarah Bello,PH,Consultation,5,200,2024-01-12,Cancelled
+1004,David Omoefe,Lagos,Hardware Kit,2,1200,2024-01-15,Completed
+1005,Amaka Obi,Enugu,Software License,4,450,2024-01-20,Completed
+1006,James Ade,Abuja,Consultation,3,200,2024-01-22,Pending
+1007,David Omoefe,Lagos,Software License,6,450,2024-02-01,Completed
+1008,Sarah Bello,PH,Hardware Kit,1,1200,2024-02-05,Completed
+1009,Amaka Obi,Enugu,Consultation,2,200,2024-02-10,Cancelled
+1010,James Ade,Abuja,Software License,5,450,2024-02-14,Completed
+1011,David Omoefe,Lagos,Consultation,4,200,2024-02-18,Completed
+1012,Sarah Bello,PH,Software License,3,450,2024-02-22,Pending
+1013,Amaka Obi,Enugu,Hardware Kit,2,1200,2024-03-01,Completed
+1014,James Ade,Abuja,Hardware Kit,1,1200,2024-03-05,Completed
+1015,David Omoefe,Lagos,Software License,7,450,2024-03-10,Completed
+1016,Sarah Bello,PH,Consultation,6,200,2024-03-14,Completed
+1017,Amaka Obi,Enugu,Software License,3,450,2024-03-18,Cancelled
+1018,James Ade,Abuja,Consultation,4,200,2024-03-22,Completed
+1019,David Omoefe,Lagos,Hardware Kit,3,1200,2024-04-02,Completed
+1020,Sarah Bello,PH,Software License,5,450,2024-04-06,Completed
+1021,Amaka Obi,Enugu,Consultation,3,200,2024-04-10,Pending
+1022,James Ade,Abuja,Software License,4,450,2024-04-15,Completed
+1023,David Omoefe,Lagos,Consultation,2,200,2024-04-20,Completed
+1024,Sarah Bello,PH,Hardware Kit,2,1200,2024-04-24,Completed
+1025,Amaka Obi,Enugu,Software License,6,450,2024-05-03,Completed
+1026,James Ade,Abuja,Hardware Kit,3,1200,2024-05-08,Cancelled
+1027,David Omoefe,Lagos,Software License,5,450,2024-05-12,Completed
+1028,Sarah Bello,PH,Consultation,4,200,2024-05-16,Completed
+1029,Amaka Obi,Enugu,Hardware Kit,1,1200,2024-05-20,Completed
+1030,James Ade,Abuja,Software License,6,450,2024-05-25,Completed
